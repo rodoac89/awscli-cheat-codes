@@ -5,4 +5,4 @@ Sientase libre de aportar
 
 ## Indice
 
-Work in progress...
+[Comandos EC2](https://github.com/rodoac89/awscli-cheat-codes/blob/master/ec2/readme.md)
